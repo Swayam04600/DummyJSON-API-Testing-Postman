@@ -41,7 +41,8 @@ The APIs are tested against the public **DummyJSON REST service**.
 
 Login using valid credentials and capture access token.
 
-![Login Success](screenshots/02_login_success.png)
+<img width="752" height="340" alt="Authentication" src="https://github.com/user-attachments/assets/a2455b7a-45e6-4b78-a0a0-50df3698b19d" />
+
 
 ---
 
