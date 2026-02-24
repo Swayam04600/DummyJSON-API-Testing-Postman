@@ -49,9 +49,15 @@ Login using valid credentials and capture access token.
 
 Token dynamically saved into environment and used to access protected endpoint `/auth/me`.
 
-![Token Script](screenshots/03_token_capture_script.png)
+<img width="1375" height="800" alt="Token Store Automitacally- 1" src="https://github.com/user-attachments/assets/edfbfc0a-94df-47c7-b598-de2d2718f307" />
 
-![Authorized User](screenshots/04_authorized_user.png)
+<img width="1380" height="366" alt="Token Stored Automatically- 2" src="https://github.com/user-attachments/assets/ab3d4dac-f12e-44c1-a68f-5354656f11a2" />
+
+<img width="1389" height="503" alt="Authorization" src="https://github.com/user-attachments/assets/0cd10240-5002-4b33-8081-c11f5dcf54f9" />
+
+
+<img width="752" height="432" alt="Authorization- 2" src="https://github.com/user-attachments/assets/7d650b79-4293-4b3d-b554-9fa11089e583" />
+
 
 ---
 
@@ -59,7 +65,8 @@ Token dynamically saved into environment and used to access protected endpoint `
 
 Base URL and token handled using Postman environment variables.
 
-![Environment Variables](screenshots/01_environment_variables.png)
+<img width="1385" height="343" alt="Environment Variables" src="https://github.com/user-attachments/assets/38d2a4b7-25cf-4927-acab-e3832da44439" />
+
 
 ---
 
@@ -67,7 +74,7 @@ Base URL and token handled using Postman environment variables.
 
 Fetching records from the backend server.
 
-![Get Posts](screenshots/05_get_posts.png)
+<img width="752" height="320" alt="Get Post" src="https://github.com/user-attachments/assets/b798a813-3e68-4c1d-bbc4-604f6a088284" />
 
 ---
 
@@ -75,7 +82,8 @@ Fetching records from the backend server.
 
 Automated test scripts verifying response status and data.
 
-![Assertions](screenshots/06_get_single_post_tests.png)
+<img width="752" height="420" alt="Get Single Post Test" src="https://github.com/user-attachments/assets/f455b549-c97a-4d99-beda-aadcecba357f" />
+
 
 ---
 
@@ -83,7 +91,7 @@ Automated test scripts verifying response status and data.
 
 Creating a new resource via API.
 
-![Create Post](screenshots/07_create_post.png)
+<img width="752" height="318" alt="Create Post" src="https://github.com/user-attachments/assets/338b8d03-33f2-422a-9940-ec313b96edc8" />
 
 ---
 
@@ -91,7 +99,7 @@ Creating a new resource via API.
 
 Updating server data.
 
-![Update Post](screenshots/08_update_post.png)
+<img width="752" height="421" alt="Update Post" src="https://github.com/user-attachments/assets/1fceebf0-3b22-4aa7-a794-b9dd8093ff7f" />
 
 ---
 
@@ -99,7 +107,7 @@ Updating server data.
 
 Deleting a record from backend.
 
-![Delete Post](screenshots/09_delete_post.png)
+<img width="752" height="342" alt="Delete Post" src="https://github.com/user-attachments/assets/eb8435ef-f219-4f4d-9228-5002b10538f0" />
 
 ---
 
@@ -107,7 +115,8 @@ Deleting a record from backend.
 
 Login with invalid credentials and validation of error response.
 
-![Negative Login](screenshots/10_negative_login.png)
+<img width="752" height="314" alt="Negative Login Password" src="https://github.com/user-attachments/assets/913f3d08-d063-4adc-acbd-fbccc7f23e1b" />
+
 
 ---
 
@@ -115,7 +124,8 @@ Login with invalid credentials and validation of error response.
 
 Verification of response JSON structure.
 
-![Schema Validation](screenshots/11_schema_validation.png)
+<img width="752" height="332" alt="Schema Validation" src="https://github.com/user-attachments/assets/e011611a-ec36-4621-906b-5539e89d80ad" />
+
 
 ---
 
@@ -123,7 +133,10 @@ Verification of response JSON structure.
 
 Unauthorized access blocked (401 response).
 
-![Unauthorized Access](screenshots/12_security_unauthorized.png)
+<img width="752" height="373" alt="Security 1" src="https://github.com/user-attachments/assets/3abcccee-4496-4afe-b361-48e36dce3eb5" />
+
+<img width="752" height="314" alt="Security 2" src="https://github.com/user-attachments/assets/7f0c0741-ea94-4d11-986c-3d02c959d531" />
+
 
 ---
 
@@ -131,7 +144,8 @@ Unauthorized access blocked (401 response).
 
 Testing non-existing resources (404 response).
 
-![Edge Case](screenshots/13_edge_case_404.png)
+<img width="752" height="314" alt="Edge Case" src="https://github.com/user-attachments/assets/9080da2e-a635-4bb2-b134-3277823dd751" />
+
 
 ---
 
@@ -139,7 +153,10 @@ Testing non-existing resources (404 response).
 
 Execution of complete API suite using Postman Runner.
 
-![Collection Runner](screenshots/14_collection_runner.png)
+<img width="752" height="441" alt="Collection Runner 1" src="https://github.com/user-attachments/assets/ed3197df-84a9-4c0b-9460-71021985e8a6" />
+
+<img width="752" height="422" alt="Collection Runner 2" src="https://github.com/user-attachments/assets/220116dc-af2a-4ef6-94c4-0e0ef225f9c2" />
+
 
 ---
 
